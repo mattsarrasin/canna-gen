@@ -1,6 +1,6 @@
 # An exploration of cannabis genetic data
 
-$# Requirements
+## Requirements
 
 You'll need `R` and the following dependencies:
 
